@@ -10,7 +10,7 @@ up:
 
 .PHONY: clean
 clean:
-	docker system prune -af --volumes
+	docker system prune -af
 
 .PHONY: fclean
 fclean: clean
