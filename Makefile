@@ -14,8 +14,8 @@ clean:
 
 .PHONY: fclean
 fclean: clean
-	rm -rf /home/hlevi/data/DB/*
-	rm -rf /home/hlevi/data/WordPress/*
+	sudo rm -rf /home/hlevi/data/DB/*
+	sudo rm -rf /home/hlevi/data/WordPress/*
 
 .PHONY: re
 re: fclean all
