@@ -64,8 +64,7 @@
 
   <h2>Resources</h2>
   <ul>
-    <li>Docker Documentation: <a href="https://docs.docker.com/">https://docs.docker.com/</a></li>
-    <li>Docker Compose Documentation: <a href="https://docs.docker.com/compose/">https://docs.docker</a></li>
+    <li><a href="https://docs.docker.com/">Docker</a></li>
 
 </body>
 </html>
