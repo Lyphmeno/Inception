@@ -2,7 +2,8 @@
 <html>
 <body>
   <h1>Inception Project : <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cljbd5ceo007308mltneinai5/project/3054937" alt="hlevi's 42 Inception Score" /></a></h1>
-  <p>Welcome to the Inception project! This project focuses on setting up a small infrastructure composed of different services using Docker and Docker Compose. 
+  <p>Welcome to the Inception project !</p>
+  <p>This project focuses on setting up a small infrastructure composed of different services using Docker and Docker Compose. 
     The goal is to create a virtualized environment with specific rules and configurations.</p>
   
   <h2>Project Description</h2>
